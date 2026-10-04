@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://how-to-encrypt-folder-in-windows-10.vercel.app/sitemap.xml
